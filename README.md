@@ -3,4 +3,4 @@ A script to calculate the possibility of UUID collision given number of UUID gen
 
 Just run the script in terminal
 
-![Screenshot](/截屏2020-08-22 下午11.57.07.png)
+![Screenshot](https://github.com/collinzrj/UUID_calculator/blob/master/%E6%88%AA%E5%B1%8F2020-08-22%20%E4%B8%8B%E5%8D%8811.57.07.png)
